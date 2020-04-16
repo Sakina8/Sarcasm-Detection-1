@@ -20,8 +20,8 @@ Content draft:
 4.*Training the model* (Methods and Algorithms)
 
         a)Tf-Idf and Logistic Regression pipeline to predict sarcasm
-        b)
-        c)
+        b)Naive Bayes
+        c)SVM
         
 5.*Comparing the results*       
 
