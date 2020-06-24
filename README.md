@@ -22,6 +22,7 @@ Content draft:
         a)Tf-Idf and Logistic Regression pipeline to predict sarcasm
         b)Naive Bayes
         c)SVM
+        d)CNN 
         
 5.*Comparing the results*       
 
